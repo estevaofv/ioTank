@@ -1,6 +1,7 @@
 SSID
 PASSWORD
-True
+False
 TOKEN
 objectsyndicate.com
 /api/v1/post/
+False
