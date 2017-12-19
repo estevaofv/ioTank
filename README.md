@@ -1,7 +1,7 @@
 # ioTank
 IoT (internet of things) environment monitor based on [Esp8266](https://espressif.com/en/products/hardware/esp8266ex/overview) [(NodeMCU)](https://github.com/nodemcu/nodemcu-devkit-v1.0), [Arduino](https://www.arduino.cc/), [Jquery](https://jquery.com/), [Django REST](http://www.django-rest-framework.org/), [Fritzing](http://fritzing.org/home/), the third industrial revolution, and the [Hammond 1551k project box](http://www.hammondmfg.com/pdf/1551K.pdf). Designed in Colorado by [Object Syndicate](https://objectsyndicate.com).
 
-<img class='img-responsive' src="https://objectsyndicate.com/media/ioblue.jpg">
+<img class='img-responsive' src="https://www.objectsyndicate.com/wp-content/uploads/2017/11/IMAG0343-2.jpg">
 
 ## [Build instructions](https://objectsyndicate.com/docs/build)
 [![ioTank Video](https://img.youtube.com/vi/0ql7znY6Asc/0.jpg)
