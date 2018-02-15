@@ -8,8 +8,8 @@ IoT (internet of things) environment monitor based on [Esp8266](https://espressi
 - Place components into the PCB as labeled and solder. 
 - Flash 'update firmware' with the windows flasher via USB or Android flasher with an OTC cable.
 
-[![ioTank Video](https://img.youtube.com/vi/0ql7znY6Asc/0.jpg)
-](https://www.youtube.com/watch?v=0ql7znY6Asc&start=45)
+[![ioTank Video](https://img.youtube.com/vi/SeW17QTGf-k/0.jpg)
+](https://www.youtube.com/watch?v=SeW17QTGf-k)
 
 ## Useful for,
 - Horticulture
