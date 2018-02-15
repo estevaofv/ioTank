@@ -4,9 +4,10 @@ IoT (internet of things) environment monitor based on [Esp8266](https://espressi
 <img class='img-responsive' src="https://www.objectsyndicate.com/wp-content/uploads/2017/11/IMAG0343-2.jpg">
 
 ## Build instructions
-Order PCB using 'Gerber' files provided or contact us and we can sell you some we have extras. 
-Place components into the PCB as labeled and solder. 
-Flash 'update firmware' with the windows flasher via USB or Android flasher with an OTC cable.
+- Order PCB using 'Gerber' files provided or contact us and we can sell you some, we have extras.
+- Place components into the PCB as labeled and solder. 
+- Flash 'update firmware' with the windows flasher via USB or Android flasher with an OTC cable.
+
 [![ioTank Video](https://img.youtube.com/vi/0ql7znY6Asc/0.jpg)
 ](https://www.youtube.com/watch?v=0ql7znY6Asc&start=45)
 
